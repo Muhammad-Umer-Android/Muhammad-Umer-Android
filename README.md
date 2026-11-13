@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Umer 👋
 
-<!--
-**Muhammad-Umer-Android/Muhammad-Umer-Android** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Mobile Engineer from Lahore, Pakistan. I've been building Android apps for 7 years with Kotlin and Jetpack Compose, and I also work with Flutter (3+ years) and iOS with SwiftUI (2+ years).
 
-Here are some ideas to get you started:
+Most of my work is in healthcare, telecom, retail POS and logistics. I like the hard parts of mobile: connecting apps to real hardware (BLE medical devices, payment terminals, label printers, MQTT) and making apps work well offline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I use**
+
+Kotlin, Jetpack Compose, Coroutines and Flow, Hilt, Koin, Room, Retrofit, Ktor, MVVM, MVI, Clean Architecture, Flutter, Dart, Bloc, Riverpod, Swift, SwiftUI, Firebase, GraphQL
+
+**Right now**
+
+Building a Kotlin Multiplatform app and a Flutter finance app. Both will be pinned here when they're ready.
+
+**Find me**
+
+[Portfolio](https://muhammad-umer-android.github.io) · [LinkedIn](https://www.linkedin.com/in/muhumer1)
+
+Open to remote Android and mobile roles.
